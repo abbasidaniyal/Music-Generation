@@ -1,9 +1,11 @@
 
 import pretty_midi
+import mido
 import matplotlib.pyplot as plt
 import pandas as pd
 import sys
 
+mido.MidiFile
 
 def parse_mid(file_path):
 
